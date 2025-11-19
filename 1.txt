@@ -112,7 +112,7 @@ username: nagiosadmin
 pwd: nagios
 click on hosts
 
-8)aws
+8)aws  if not working yum
 sudo su
 sudo apt-get update
 sudo apt-get install docker.io
