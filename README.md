@@ -32,5 +32,5 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main   # <- Renames master to main (optional)
-git remote add origin https://github.com/archanareddyse/mavenjava.git
+git remote add origin https://github.com/Mahaneesh20/mavenjavas.git
 git push -u origin main
