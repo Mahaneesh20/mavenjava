@@ -25,3 +25,12 @@ $ git remote add origin http code https://github.com/archanareddyse/mavenjava.gi
 $ git remote -v
 $ git push origin -u main
 now refresh by the github we see all will be uploaded here....
+
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main   # <- Renames master to main (optional)
+git remote add origin https://github.com/archanareddyse/mavenjava.git
+git push -u origin main
